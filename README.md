@@ -33,8 +33,6 @@ Windows:
 git clone https://github.com/pg-29/CasaCraft-Furniture-Website.git
 ```
 
-## Contact
-
-If you want to contact with me you can reach me at [Email](pushkar_garg@outlook.com).
+## Thank You
 
  
